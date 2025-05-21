@@ -81,6 +81,7 @@ def main():
     
     root.mainloop()
 
+print("Hola mundo!")
 
 main()
 
