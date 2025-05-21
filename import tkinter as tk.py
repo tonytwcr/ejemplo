@@ -72,7 +72,7 @@ def main():
     # button1.pack(padx=20, pady=5)
     button1.grid(row=1, column=0)
 
-    button2 = tk.Button(frame, text="8. esShiny", width=20)
+    button2 = tk.Button(frame, text="8. esShiny", width=20, command=searchScreen)
     # button2.pack(padx=20, pady=5)
     button2.grid(row=1, column=1)
 
